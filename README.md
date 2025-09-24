@@ -6,7 +6,7 @@ I am Developer from the **Czech Republic**, also known online as **Spagy**. I pr
 ### Languages
 [![Skills](https://skillicons.dev/icons?i=py,cs,html,css,md#)](https://skillicons.dev)
 
-### Tools and other skills
+### Tools and other stuff
 [![Skills](https://skillicons.dev/icons?i=windows,linux,visualstudio,vscode,unity,arduino,cloudflare,ps,blender,github,git)](https://skillicons.dev)
 
 ## Statistics

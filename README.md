@@ -1,6 +1,6 @@
 # Hello, I am Vít Machač
 
-I am Developer from the **Czech Republic**, also known online as **Spagy**. I primarily work with **C#** and web technologies (**HTML, CSS**).
+I am a  Developer from the **Czech Republic**, also known online as **Spagy**. I primarily work with **C#** and web technologies (**HTML, CSS**).
 
 ## Skills
 ### Languages
